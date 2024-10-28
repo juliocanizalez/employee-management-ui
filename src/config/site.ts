@@ -9,12 +9,8 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Employees",
-      href: "/employees",
-    },
-    {
-      label: "Deparments",
-      href: "/deparments",
+      label: "Employee",
+      href: "/employee",
     },
   ],
   navMenuItems: [
@@ -23,12 +19,8 @@ export const siteConfig = {
       href: "/home",
     },
     {
-      label: "Employees",
-      href: "/employees",
-    },
-    {
-      label: "Departments",
-      href: "/departments",
+      label: "Employee",
+      href: "/employee",
     },
   ],
 };
